@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3MQLLIrNt1m7ehw/ent6GFaBgok0PZzVHcoPjiTi5xrJUWStsU1U0mcPd8s2NsPELnV88h5yQWQ9gm6vpM8RUQ==",
+  "dgSpecHash": "z7PPWXoijCq2lp4sdcS8paTAq3vkME0/8KXbItoH5bHhmtsRxpmDjENsabJo6Pxfw7bswlob4nXyXdC2+baHrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\BlazorClient.csproj",
+  "projectFilePath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\BlazorClient.csproj": {}
+    "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\BlazorClient.csproj": {
+    "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\BlazorClient.csproj",
+        "projectUniqueName": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient.csproj",
         "projectName": "BlazorClient",
-        "projectPath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\BlazorClient.csproj",
+        "projectPath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient.csproj",
         "packagesPath": "C:\\Users\\bradh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\BlazorClient\\obj\\",
+        "outputPath": "C:\\Users\\bradh\\source\\repos\\hbmCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bradh\\AppData\\Roaming\\NuGet\\NuGet.Config",
