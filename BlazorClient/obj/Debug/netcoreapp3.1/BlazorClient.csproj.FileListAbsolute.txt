@@ -90,3 +90,4 @@ C:\Users\bradh\source\repos\hbmCalculator\BlazorClient\obj\Debug\netcoreapp3.1\B
 C:\Users\bradh\source\repos\hbmCalculator\BlazorClient\obj\Debug\netcoreapp3.1\BlazorClient.pdb
 C:\Users\bradh\source\repos\hbmCalculator\BlazorClient\obj\Debug\netcoreapp3.1\BlazorClient.genruntimeconfig.cache
 C:\Users\bradh\source\repos\hbmCalculator\BlazorClient\obj\Debug\netcoreapp3.1\BlazorClient.csproj.CopyComplete
+C:\Users\bradh\source\repos\hbmCalculator\BlazorClient\obj\Debug\netcoreapp3.1\BlazorClient.csprojAssemblyReference.cache
